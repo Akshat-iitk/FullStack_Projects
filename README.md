@@ -1,2 +1,2 @@
 # FullStack_Projects
-Repo containing my full stack projects
+Repo containing my FullStack projects
